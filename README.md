@@ -7,4 +7,8 @@ Collection of notebook and slides for AI workshop , WRC Pokhara
 
 Download the breast cancer data from http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data 
 
+Last day of workshop was implementation of Artificial Neural Network and the data for Dog and cat classification is available at : https://www.kaggle.com/c/dogs-vs-cats/data
+
+Repo for Dog cat calssification is available here : https://github.com/Ashwin-Dhakal/Cat-and-Dog-novice
+
 Thanks !
