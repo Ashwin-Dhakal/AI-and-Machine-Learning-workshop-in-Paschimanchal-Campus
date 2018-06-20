@@ -11,4 +11,4 @@ Last day of workshop was implementation of Artificial Neural Network and the dat
 
 Repo for Dog cat calssification is available here : https://github.com/Ashwin-Dhakal/Cat-and-Dog-novice
 
-Thanks !
+Thanks
